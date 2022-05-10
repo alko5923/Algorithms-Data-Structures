@@ -9,3 +9,5 @@ The assignments for the Algorithms and Data Structures II course at Uppsala univ
 
 ## Assignment 3 - Controlling the Maximum Flow
 [Read the report](assignment3/report.pdf)
+
+![algos](algos.jpg)
