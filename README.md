@@ -1,4 +1,6 @@
-# AD2
+# Algorithms and Data Structures II
+The assignments for the Algorithms and Data Structures II course at Uppsala university. 
+
 ## Assignment 1
 [Link to report 1](https://www.overleaf.com/9399157183mwwswqmzzpwp)
 
